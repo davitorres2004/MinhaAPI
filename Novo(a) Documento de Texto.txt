@@ -1,0 +1,10 @@
+nome usuário : davitorresdesouza_db_user
+senha:I9IxrRqTl06R07pt
+
+node --watch server.js
+
+npx prisma studio
+
+https://www.youtube.com/watch?v=PyrMT0GA3sE
+
+https://www.youtube.com/watch?v=_gHr2Pe5LCY
